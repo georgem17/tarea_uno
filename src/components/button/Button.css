@@ -1,0 +1,18 @@
+.switch_btn{
+  width: 50px;
+  aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  border-radius: 50%;
+  border: none;
+
+  font-size: 20px;
+  
+  background-color: white;
+  
+}
+.switch_btn i{
+  font-size: 30px;
+  color: rgba(47, 43, 43, 0.22);
+}
